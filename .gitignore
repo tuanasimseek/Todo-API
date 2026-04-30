@@ -1,0 +1,38 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*.sqlite3
+
+# Virtual environment
+
+venv/
+env/
+.venv/
+
+# Environment variables
+
+.env
+
+# Django stuff
+
+*.log
+staticfiles/
+media/
+
+# Migrations (opsiyonel - genelde dahil edilir ama küçük projede ignore edebilirsin)
+
+# */migrations/
+
+# VSCode / IDE
+
+.vscode/
+.idea/
+
+# MacOS
+
+.DS_Store
+
+# Docker
+
+*.pid
